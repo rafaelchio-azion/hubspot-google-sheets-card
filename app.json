@@ -1,0 +1,6 @@
+{
+  "name": "HubSpot Google Sheets Card",
+  "description": "Custom card to display and edit Google Sheets within HubSpot CRM",
+  "version": "1.0.0",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.deals.read", "crm.objects.companies.read"]
+}
