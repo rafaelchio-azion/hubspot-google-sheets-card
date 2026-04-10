@@ -1,0 +1,11 @@
+{
+  "uid": "cartao-google-sheets",
+  "type": "card",
+  "config": {
+    "name": "Planilha Operacional",
+    "description": "Acesso direto ao Google Sheets para preenchimento",
+    "location": "crm.record.tab",
+    "entrypoint": "CartaoSheets.jsx",
+    "objectTypes": ["contacts", "deals", "companies"]
+  }
+}
